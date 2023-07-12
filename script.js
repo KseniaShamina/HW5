@@ -66,7 +66,7 @@ function multiplyNumbers(a, b) {
   }
 
   const circle2 = {
-    radius: 4,
+    radius: 6,
     getArea() {
        return 2 * Math.PI * this.radius; 
     }
